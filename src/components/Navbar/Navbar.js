@@ -12,19 +12,18 @@ function Navbar() {
           {/* Link to homepage */}
           <Link to="/">
             {/* Logo image */}
-            <img
-              alt=""
-              src="https://www.alertall.com/Pet-Finder-Window-Clings/image/item/008"
-              className="img-nav"
+            <img className="nav-logo" 
+              alt="logo"
+              src="https://images-platform.99static.com//-H_wgTeNs6IveGAeBL5cnonW2UE=/151x136:1849x1834/fit-in/500x500/99designs-contests-attachments/121/121665/attachment_121665077"
             />
           </Link>
           {/* Link to animal list page */}
           <Link className="img-nav" to="/animalList">
-            FIND PET
+            HAVE ME
           </Link>
           {/* Link to organization list page */}
           <Link className="img-nav" to="/organizationList">
-            <span>ORGANISATIONS </span>
+            <span>CONTACTS </span>
           </Link>
           {/* Link to sign up page */}
           <Link className="img-nav" to="/login">
