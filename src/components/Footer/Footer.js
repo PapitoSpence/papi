@@ -20,7 +20,7 @@ function Footer() {
                 rel="noreferrer"
                 className="a-link"
               >
-                Made in love with Petfinder
+                Made in love with Papi
               </a>{" "}
             </div>
             <div className="social-icons">
