@@ -1,7 +1,7 @@
-#Project Name: papi
+# Project Name: papi
 
 
-#Getting Started
+# Getting Started
 To get started with this project, follow the instructions below:
 
 Clone the repository to your local machine using git clone https://github.com/PapitoSpence/papi.git
@@ -22,8 +22,8 @@ Make your changes and commit them using git commit -am 'Added some feature'.
 Push your changes to your forked repository using git push origin my-feature-branch.
 Create a pull request on the original repository.
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-Author: 
+# Author: 
 Spencer Mwenda
