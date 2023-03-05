@@ -21,6 +21,9 @@ function Navbar() {
           <Link className="img-nav" to="/animalList">
             HAVE ME
           </Link>
+          <Link className="img-nav" to='/AddPet'>
+            Add Pet
+          </Link>
           {/* Link to organization list page */}
           <Link className="img-nav" to="/organizationList">
             <span>CONTACTS </span>
@@ -29,6 +32,7 @@ function Navbar() {
           <Link className="img-nav" to="/login">
             SIGN UP
           </Link>
+
         </div>
       </nav>
     </>

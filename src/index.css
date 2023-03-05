@@ -12,7 +12,7 @@
   width: 2000px;
   margin-left: 100px;
   margin-top: 20px;
-  color: rgb(81, 13, 240);
+  color: rgb(19, 245, 207);
   background: #ddd;
 }
 .MainOrganizationCards {
@@ -107,4 +107,10 @@
   width: 150px;
   height: 100px;
   border-radius: 10px;
+}
+.del-btn{
+  padding: 10px;
+  margin-right: auto;
+  background-color: red;
+  color: white;
 }

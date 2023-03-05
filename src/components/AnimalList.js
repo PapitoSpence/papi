@@ -52,7 +52,7 @@ const [animals, setAnimals] = useState([]);
               }
               name={animal.name ? animal.name : "Milo"}
               breed={animal.breeds.primary}
-            />
+              />
           );
         })}
          <AnimalDetails

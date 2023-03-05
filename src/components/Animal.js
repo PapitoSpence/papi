@@ -11,7 +11,9 @@ const Animal = ({ image, breed, name }) => {
           <div className="p-2">
             <h4 className="text-cyan-900 text-l font-bold">{name}</h4>
             <p className="text-gray-700 text-base">{breed}</p>
+            
           </div>
+          <button className="del-btn">Delete</button>
         </div>
       </div>
     </div>
