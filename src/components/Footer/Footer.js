@@ -13,7 +13,7 @@ function Footer() {
               className="social-logo"
               style={{ fontSize: "35px", color: "red" }}
             >
-              Pet Flix&nbsp;
+              Papito&nbsp;
               <a
                 href="https://www.petfinder.com/"
                 target="_blank"
