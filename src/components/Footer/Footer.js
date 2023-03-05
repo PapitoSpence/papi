@@ -31,7 +31,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <a
-                  href="https://www.instagram.com/__cosm0/"
+                  href="https://www.instagram.com/papito_spence/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -45,7 +45,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <a
-                  href="https://www.facebook.com/daryl.mutai"
+                  href="https://web.facebook.com/spencer.mwenda"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -56,17 +56,28 @@ function Footer() {
                 className="social-icons-link"
                 target="_blank"
                 aria-label="Twitter"
-                rel="noopener noreferrer"
+                rel="noreferrer"
               >
-                <i class="fa-brands fa-twitter"></i>
+                <a
+                  href="https://twitter.com/MwendaSpencer"
+                  target="_blank"
+                  rel="noreferrer"
+                ><i class="fa-brands fa-twitter"></i></a>
+                
               </div>
               <div
                 className="social-icons-link"
                 target="_blank"
-                aria-label="Discord"
+                aria-label="Github"
                 rel="noopener noreferrer"
               >
-                <i class="fa-brands fa-discord"></i>
+                <a
+                href="https://github.com/PapitoSpence"
+                  target="_blank"
+                  rel="noreferrer"
+                  >
+                <i class="fa-brands fa-github"></i></a>
+
               </div>
             </div>
           </div>
